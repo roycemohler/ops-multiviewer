@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  background: #0f1115;
+  color: white;
+  font-family: system-ui, sans-serif;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 8px;
+  padding: 8px;
+}
+
+iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: none;
+}
+body {
+  margin: 0;
+  background: #0f1115;
+  color: white;
+  font-family: system-ui, sans-serif;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 8px;
+  padding: 8px;
+}
+
+iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: none;
+}
